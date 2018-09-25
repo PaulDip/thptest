@@ -1,1 +1,1 @@
-print "	HELLO World"
+print "bonjour monde"
